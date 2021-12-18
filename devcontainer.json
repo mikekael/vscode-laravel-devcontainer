@@ -8,6 +8,7 @@
         "bmewburn.vscode-intelephense-client",
         "emallin.phpunit",
         "neilbrayfield.php-docblocker",
-        "felixfbecker.php-debug"
+        "felixfbecker.php-debug",
+        "editorconfig.editorconfig"
     ]
 }

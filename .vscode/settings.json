@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "[json]": {
+        "editor.tabSize": 4
+    }
+}
